@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14460.32" systemVersion="18B75" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="ArticleCommandeEAN" representedClassName="ArticleCommandeEAN" syncable="YES" codeGenerationType="class">
+        <attribute name="ean" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="qte" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+    </entity>
+    <entity name="ArticleEAN" representedClassName="ArticleEAN" syncable="YES" codeGenerationType="class">
+        <attribute name="ean" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="qte" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+    </entity>
+    <entity name="CalendarFood" representedClassName="CalendarFood" syncable="YES" codeGenerationType="class">
+        <attribute name="date" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="ingredient" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nom" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="DonneeClient" representedClassName="DonneeClient" syncable="YES" codeGenerationType="class">
+        <attribute name="client" optional="YES" attributeType="Binary" syncable="YES"/>
+    </entity>
+    <entity name="ListeCommande" representedClassName="ListeCommande" syncable="YES" codeGenerationType="class">
+        <attribute name="ean" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lib" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="netttc" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="puttc" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="qte" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="ticketTotal" optional="YES" attributeType="Binary" syncable="YES"/>
+    </entity>
+    <entity name="ListeCourse" representedClassName="ListeCourse" syncable="YES" codeGenerationType="class">
+        <attribute name="nom" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="MesCommandesSave" representedClassName="MesCommandesSave" syncable="YES" codeGenerationType="class">
+        <attribute name="date" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="montant" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="numero" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Position" representedClassName="Position" syncable="YES" codeGenerationType="class">
+        <attribute name="index" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+    </entity>
+    <entity name="Serveur" representedClassName="Serveur" syncable="YES" codeGenerationType="class">
+        <attribute name="adresse" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="TicketFini" representedClassName="TicketFini" syncable="YES" codeGenerationType="class">
+        <attribute name="article" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="client" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="TicketGestion" representedClassName="TicketGestion" syncable="YES" codeGenerationType="class">
+        <attribute name="ean" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lib" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="netttc" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="puttc" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="qte" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="ticketTotal" optional="YES" attributeType="Binary" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="ArticleCommandeEAN" positionX="-27" positionY="54" width="128" height="75"/>
+        <element name="ArticleEAN" positionX="-54" positionY="45" width="128" height="75"/>
+        <element name="CalendarFood" positionX="-36" positionY="36" width="128" height="90"/>
+        <element name="DonneeClient" positionX="-18" positionY="81" width="128" height="60"/>
+        <element name="ListeCommande" positionX="-36" positionY="36" width="128" height="135"/>
+        <element name="ListeCourse" positionX="-27" positionY="45" width="128" height="60"/>
+        <element name="Position" positionX="-18" positionY="63" width="128" height="30"/>
+        <element name="Serveur" positionX="-36" positionY="63" width="128" height="60"/>
+        <element name="TicketFini" positionX="-36" positionY="54" width="128" height="30"/>
+        <element name="TicketGestion" positionX="-63" positionY="-9" width="128" height="135"/>
+        <element name="MesCommandesSave" positionX="-36" positionY="63" width="128" height="90"/>
+    </elements>
+</model>

@@ -1,0 +1,702 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1F61041985555AFD9D734734 /* Pods_Ezgo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DD6ACFE4A9A889F5D662A8AC /* Pods_Ezgo.framework */; };
+		521732062199BCB000671881 /* NewUser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 521732052199BCB000671881 /* NewUser.swift */; };
+		52173208219AB42B00671881 /* CustomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52173207219AB42B00671881 /* CustomView.swift */; };
+		5217320A219AB52500671881 /* gifGestion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52173209219AB52500671881 /* gifGestion.swift */; };
+		5217320C219AEC6B00671881 /* InformationPersonnellesController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5217320B219AEC6B00671881 /* InformationPersonnellesController.swift */; };
+		5217320E219AF2E300671881 /* EditClientController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5217320D219AF2E300671881 /* EditClientController.swift */; };
+		52173210219AF51100671881 /* UpdateUser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5217320F219AF51100671881 /* UpdateUser.swift */; };
+		52173213219B004900671881 /* AllCatalogueController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52173212219B004900671881 /* AllCatalogueController.swift */; };
+		52173215219B019600671881 /* CategorieController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52173214219B019600671881 /* CategorieController.swift */; };
+		52173217219B028E00671881 /* ShowCatalogueController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52173216219B028E00671881 /* ShowCatalogueController.swift */; };
+		52379F59219BF17100D80427 /* RefreshUser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52379F58219BF17100D80427 /* RefreshUser.swift */; };
+		52379F76219C2CB300D80427 /* carrefour.gif in Resources */ = {isa = PBXBuildFile; fileRef = 52379F72219C2CB200D80427 /* carrefour.gif */; };
+		52379F77219C2CB300D80427 /* fifa.gif in Resources */ = {isa = PBXBuildFile; fileRef = 52379F73219C2CB300D80427 /* fifa.gif */; };
+		52379F78219C2CB300D80427 /* oasis.gif in Resources */ = {isa = PBXBuildFile; fileRef = 52379F74219C2CB300D80427 /* oasis.gif */; };
+		52379F79219C2CB300D80427 /* promo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 52379F75219C2CB300D80427 /* promo.gif */; };
+		52379F7B219C344E00D80427 /* ShareController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52379F7A219C344E00D80427 /* ShareController.swift */; };
+		52379F7D219C347A00D80427 /* PubViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52379F7C219C347A00D80427 /* PubViewController.swift */; };
+		5241E741217EFD6000F20BF5 /* GestionJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5241E740217EFD6000F20BF5 /* GestionJSON.swift */; };
+		52528D82217D8AB800AA4919 /* ConnexionController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52528D81217D8AB800AA4919 /* ConnexionController.swift */; };
+		52528D84217D8DE200AA4919 /* ScannerController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52528D83217D8DE200AA4919 /* ScannerController.swift */; };
+		52528D86217D901300AA4919 /* Connexion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52528D85217D901300AA4919 /* Connexion.swift */; };
+		52528D8C217DAF4000AA4919 /* ClientInfoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52528D8B217DAF4000AA4919 /* ClientInfoController.swift */; };
+		526FEDCF21C1313400E138BC /* RecupMag.swift in Sources */ = {isa = PBXBuildFile; fileRef = 526FEDCE21C1313400E138BC /* RecupMag.swift */; };
+		5273105921AE7FA80023B7B6 /* dress.gif in Resources */ = {isa = PBXBuildFile; fileRef = 5273105821AE7FA70023B7B6 /* dress.gif */; };
+		527A2DB921C2311200B782C7 /* NavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 527A2DB821C2311200B782C7 /* NavigationController.swift */; };
+		52AF1EB321C3C628007A0EF8 /* Catalogue.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52AF1EB221C3C628007A0EF8 /* Catalogue.storyboard */; };
+		52AF1EB921C3DF3F007A0EF8 /* RoundIV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52AF1EB821C3DF3F007A0EF8 /* RoundIV.swift */; };
+		52B7C18F2179AE9400F7F530 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B7C18E2179AE9400F7F530 /* AppDelegate.swift */; };
+		52B7C1942179AE9400F7F530 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52B7C1922179AE9400F7F530 /* Main.storyboard */; };
+		52B7C1972179AE9400F7F530 /* Ezgo.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 52B7C1952179AE9400F7F530 /* Ezgo.xcdatamodeld */; };
+		52B7C1992179AE9800F7F530 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52B7C1982179AE9800F7F530 /* Assets.xcassets */; };
+		52B7C19C2179AE9800F7F530 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52B7C19A2179AE9800F7F530 /* LaunchScreen.storyboard */; };
+		52B7C1A72179B61900F7F530 /* BienvenueController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B7C1A62179B61900F7F530 /* BienvenueController.swift */; };
+		52B7C1AA2179B6E800F7F530 /* app.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B7C1A92179B6E800F7F530 /* app.swift */; };
+		52CADBFE21B7B22600D0F58A /* SettingsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52CADBFD21B7B22600D0F58A /* SettingsController.swift */; };
+		52CADC0121B8DB5F00D0F58A /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 52CADC0321B8DB5F00D0F58A /* Localizable.strings */; };
+		52CBD4D821C368A700A7DB02 /* Settings.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52CBD4D721C368A700A7DB02 /* Settings.storyboard */; };
+		52CBD4DF21C377F100A7DB02 /* Menu.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52CBD4DE21C377F100A7DB02 /* Menu.storyboard */; };
+		52CBD4E221C3795900A7DB02 /* RootController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52CBD4E121C3795900A7DB02 /* RootController.swift */; };
+		52CBD4E621C37AC600A7DB02 /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52CBD4E521C37AC600A7DB02 /* MenuController.swift */; };
+		52CBD4E821C38D0A00A7DB02 /* MenuSlideCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52CBD4E721C38D0A00A7DB02 /* MenuSlideCell.swift */; };
+		52CBD4EA21C397AE00A7DB02 /* Constantes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52CBD4E921C397AE00A7DB02 /* Constantes.swift */; };
+		52CBD4EC21C3981700A7DB02 /* CustomMenuSlideView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52CBD4EB21C3981700A7DB02 /* CustomMenuSlideView.swift */; };
+		52CBD4EE21C3B6F900A7DB02 /* Client.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52CBD4ED21C3B6F900A7DB02 /* Client.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		4E60144A0B68BC3D1C9219B0 /* Pods-Ezgo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Ezgo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Ezgo/Pods-Ezgo.debug.xcconfig"; sourceTree = "<group>"; };
+		521732052199BCB000671881 /* NewUser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewUser.swift; sourceTree = "<group>"; };
+		52173207219AB42B00671881 /* CustomView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomView.swift; sourceTree = "<group>"; };
+		52173209219AB52500671881 /* gifGestion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gifGestion.swift; sourceTree = "<group>"; };
+		5217320B219AEC6B00671881 /* InformationPersonnellesController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InformationPersonnellesController.swift; sourceTree = "<group>"; };
+		5217320D219AF2E300671881 /* EditClientController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditClientController.swift; sourceTree = "<group>"; };
+		5217320F219AF51100671881 /* UpdateUser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateUser.swift; sourceTree = "<group>"; };
+		52173212219B004900671881 /* AllCatalogueController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllCatalogueController.swift; sourceTree = "<group>"; };
+		52173214219B019600671881 /* CategorieController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategorieController.swift; sourceTree = "<group>"; };
+		52173216219B028E00671881 /* ShowCatalogueController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowCatalogueController.swift; sourceTree = "<group>"; };
+		52379F58219BF17100D80427 /* RefreshUser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RefreshUser.swift; sourceTree = "<group>"; };
+		52379F72219C2CB200D80427 /* carrefour.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = carrefour.gif; sourceTree = "<group>"; };
+		52379F73219C2CB300D80427 /* fifa.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = fifa.gif; sourceTree = "<group>"; };
+		52379F74219C2CB300D80427 /* oasis.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = oasis.gif; sourceTree = "<group>"; };
+		52379F75219C2CB300D80427 /* promo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = promo.gif; sourceTree = "<group>"; };
+		52379F7A219C344E00D80427 /* ShareController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareController.swift; sourceTree = "<group>"; };
+		52379F7C219C347A00D80427 /* PubViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PubViewController.swift; sourceTree = "<group>"; };
+		5241E740217EFD6000F20BF5 /* GestionJSON.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GestionJSON.swift; sourceTree = "<group>"; };
+		52528D81217D8AB800AA4919 /* ConnexionController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConnexionController.swift; sourceTree = "<group>"; };
+		52528D83217D8DE200AA4919 /* ScannerController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScannerController.swift; sourceTree = "<group>"; };
+		52528D85217D901300AA4919 /* Connexion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Connexion.swift; sourceTree = "<group>"; };
+		52528D8B217DAF4000AA4919 /* ClientInfoController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClientInfoController.swift; sourceTree = "<group>"; };
+		526FEDCE21C1313400E138BC /* RecupMag.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecupMag.swift; sourceTree = "<group>"; };
+		5273105821AE7FA70023B7B6 /* dress.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = dress.gif; sourceTree = "<group>"; };
+		527A2DB821C2311200B782C7 /* NavigationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationController.swift; sourceTree = "<group>"; };
+		52AF1EB221C3C628007A0EF8 /* Catalogue.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Catalogue.storyboard; sourceTree = "<group>"; };
+		52AF1EB821C3DF3F007A0EF8 /* RoundIV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundIV.swift; sourceTree = "<group>"; };
+		52B7C18B2179AE9400F7F530 /* Ezgo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Ezgo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		52B7C18E2179AE9400F7F530 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		52B7C1932179AE9400F7F530 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		52B7C1962179AE9400F7F530 /* Ezgo.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Ezgo.xcdatamodel; sourceTree = "<group>"; };
+		52B7C1982179AE9800F7F530 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		52B7C19B2179AE9800F7F530 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		52B7C19D2179AE9800F7F530 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		52B7C1A62179B61900F7F530 /* BienvenueController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BienvenueController.swift; sourceTree = "<group>"; };
+		52B7C1A92179B6E800F7F530 /* app.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = app.swift; sourceTree = "<group>"; };
+		52CADBFD21B7B22600D0F58A /* SettingsController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsController.swift; sourceTree = "<group>"; };
+		52CADC0421B8DD0100D0F58A /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
+		52CADC0521B8DD0100D0F58A /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Main.strings; sourceTree = "<group>"; };
+		52CADC0621B8DD0200D0F58A /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		52CADC0721B8DD4500D0F58A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
+		52CADC0821B8DD4500D0F58A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		52CADC0921B8DD4500D0F58A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		52CBD4D721C368A700A7DB02 /* Settings.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Settings.storyboard; sourceTree = "<group>"; };
+		52CBD4DE21C377F100A7DB02 /* Menu.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Menu.storyboard; sourceTree = "<group>"; };
+		52CBD4E121C3795900A7DB02 /* RootController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootController.swift; sourceTree = "<group>"; };
+		52CBD4E521C37AC600A7DB02 /* MenuController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuController.swift; sourceTree = "<group>"; };
+		52CBD4E721C38D0A00A7DB02 /* MenuSlideCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuSlideCell.swift; sourceTree = "<group>"; };
+		52CBD4E921C397AE00A7DB02 /* Constantes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constantes.swift; sourceTree = "<group>"; };
+		52CBD4EB21C3981700A7DB02 /* CustomMenuSlideView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomMenuSlideView.swift; sourceTree = "<group>"; };
+		52CBD4ED21C3B6F900A7DB02 /* Client.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Client.storyboard; sourceTree = "<group>"; };
+		6C726175AC432A4C65C02705 /* Pods-Ezgo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Ezgo.release.xcconfig"; path = "Pods/Target Support Files/Pods-Ezgo/Pods-Ezgo.release.xcconfig"; sourceTree = "<group>"; };
+		DD6ACFE4A9A889F5D662A8AC /* Pods_Ezgo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Ezgo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		52B7C1882179AE9400F7F530 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1F61041985555AFD9D734734 /* Pods_Ezgo.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3EDC905B44A82996B0EDAE92 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				4E60144A0B68BC3D1C9219B0 /* Pods-Ezgo.debug.xcconfig */,
+				6C726175AC432A4C65C02705 /* Pods-Ezgo.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		520B291021C297D30066602F /* Storyboard */ = {
+			isa = PBXGroup;
+			children = (
+				52B7C19A2179AE9800F7F530 /* LaunchScreen.storyboard */,
+				52CBD4DE21C377F100A7DB02 /* Menu.storyboard */,
+				52B7C1922179AE9400F7F530 /* Main.storyboard */,
+				52CBD4ED21C3B6F900A7DB02 /* Client.storyboard */,
+				52AF1EB221C3C628007A0EF8 /* Catalogue.storyboard */,
+				52CBD4D721C368A700A7DB02 /* Settings.storyboard */,
+			);
+			path = Storyboard;
+			sourceTree = "<group>";
+		};
+		52173211219AFFE700671881 /* Catalogue */ = {
+			isa = PBXGroup;
+			children = (
+				52173212219B004900671881 /* AllCatalogueController.swift */,
+				52173214219B019600671881 /* CategorieController.swift */,
+				52173216219B028E00671881 /* ShowCatalogueController.swift */,
+			);
+			path = Catalogue;
+			sourceTree = "<group>";
+		};
+		52379F57219BF15500D80427 /* User */ = {
+			isa = PBXGroup;
+			children = (
+				521732052199BCB000671881 /* NewUser.swift */,
+				5217320F219AF51100671881 /* UpdateUser.swift */,
+				52379F58219BF17100D80427 /* RefreshUser.swift */,
+			);
+			path = User;
+			sourceTree = "<group>";
+		};
+		52379F71219C2C8B00D80427 /* Gif */ = {
+			isa = PBXGroup;
+			children = (
+				5273105821AE7FA70023B7B6 /* dress.gif */,
+				52379F72219C2CB200D80427 /* carrefour.gif */,
+				52379F73219C2CB300D80427 /* fifa.gif */,
+				52379F74219C2CB300D80427 /* oasis.gif */,
+				52379F75219C2CB300D80427 /* promo.gif */,
+			);
+			path = Gif;
+			sourceTree = "<group>";
+		};
+		52528D80217D8A8300AA4919 /* connexion */ = {
+			isa = PBXGroup;
+			children = (
+				52528D81217D8AB800AA4919 /* ConnexionController.swift */,
+				52528D83217D8DE200AA4919 /* ScannerController.swift */,
+			);
+			path = connexion;
+			sourceTree = "<group>";
+		};
+		52528D8A217DAF1400AA4919 /* Client */ = {
+			isa = PBXGroup;
+			children = (
+				52528D8B217DAF4000AA4919 /* ClientInfoController.swift */,
+				5217320B219AEC6B00671881 /* InformationPersonnellesController.swift */,
+				5217320D219AF2E300671881 /* EditClientController.swift */,
+			);
+			path = Client;
+			sourceTree = "<group>";
+		};
+		526FEDCD21C130FA00E138BC /* Magasin */ = {
+			isa = PBXGroup;
+			children = (
+				526FEDCE21C1313400E138BC /* RecupMag.swift */,
+			);
+			path = Magasin;
+			sourceTree = "<group>";
+		};
+		52B7C1822179AE9400F7F530 = {
+			isa = PBXGroup;
+			children = (
+				52B7C18D2179AE9400F7F530 /* Ezgo */,
+				52B7C18C2179AE9400F7F530 /* Products */,
+				3EDC905B44A82996B0EDAE92 /* Pods */,
+				B381CA70954C1BB2FE7A0465 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		52B7C18C2179AE9400F7F530 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				52B7C18B2179AE9400F7F530 /* Ezgo.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		52B7C18D2179AE9400F7F530 /* Ezgo */ = {
+			isa = PBXGroup;
+			children = (
+				52B7C18E2179AE9400F7F530 /* AppDelegate.swift */,
+				52B7C1982179AE9800F7F530 /* Assets.xcassets */,
+				52B7C1952179AE9400F7F530 /* Ezgo.xcdatamodeld */,
+				52B7C19D2179AE9800F7F530 /* Info.plist */,
+				52CADC0321B8DB5F00D0F58A /* Localizable.strings */,
+				52379F71219C2C8B00D80427 /* Gif */,
+				52B7C1A82179B6A900F7F530 /* Outils */,
+				52B7C1A52179AF6500F7F530 /* Model */,
+				52B7C1A42179AF6100F7F530 /* Vue */,
+				52B7C1A32179AF5A00F7F530 /* Controller */,
+				520B291021C297D30066602F /* Storyboard */,
+			);
+			path = Ezgo;
+			sourceTree = "<group>";
+		};
+		52B7C1A32179AF5A00F7F530 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				52CBD4E021C3793C00A7DB02 /* Menu */,
+				52B7C1A62179B61900F7F530 /* BienvenueController.swift */,
+				52CADBFD21B7B22600D0F58A /* SettingsController.swift */,
+				52528D80217D8A8300AA4919 /* connexion */,
+				52528D8A217DAF1400AA4919 /* Client */,
+				52173211219AFFE700671881 /* Catalogue */,
+				52379F7A219C344E00D80427 /* ShareController.swift */,
+				52379F7C219C347A00D80427 /* PubViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		52B7C1A42179AF6100F7F530 /* Vue */ = {
+			isa = PBXGroup;
+			children = (
+				52CBD4E721C38D0A00A7DB02 /* MenuSlideCell.swift */,
+				52173207219AB42B00671881 /* CustomView.swift */,
+				52CBD4EB21C3981700A7DB02 /* CustomMenuSlideView.swift */,
+				52AF1EB821C3DF3F007A0EF8 /* RoundIV.swift */,
+			);
+			path = Vue;
+			sourceTree = "<group>";
+		};
+		52B7C1A52179AF6500F7F530 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				52528D85217D901300AA4919 /* Connexion.swift */,
+				526FEDCD21C130FA00E138BC /* Magasin */,
+				52379F57219BF15500D80427 /* User */,
+				5241E740217EFD6000F20BF5 /* GestionJSON.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		52B7C1A82179B6A900F7F530 /* Outils */ = {
+			isa = PBXGroup;
+			children = (
+				52B7C1A92179B6E800F7F530 /* app.swift */,
+				52173209219AB52500671881 /* gifGestion.swift */,
+				52CBD4E921C397AE00A7DB02 /* Constantes.swift */,
+			);
+			path = Outils;
+			sourceTree = "<group>";
+		};
+		52CBD4E021C3793C00A7DB02 /* Menu */ = {
+			isa = PBXGroup;
+			children = (
+				52CBD4E121C3795900A7DB02 /* RootController.swift */,
+				52CBD4E521C37AC600A7DB02 /* MenuController.swift */,
+				527A2DB821C2311200B782C7 /* NavigationController.swift */,
+			);
+			path = Menu;
+			sourceTree = "<group>";
+		};
+		B381CA70954C1BB2FE7A0465 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				DD6ACFE4A9A889F5D662A8AC /* Pods_Ezgo.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		52B7C18A2179AE9400F7F530 /* Ezgo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 52B7C1A02179AE9800F7F530 /* Build configuration list for PBXNativeTarget "Ezgo" */;
+			buildPhases = (
+				98FC04BBAAE89A3F32D48B68 /* [CP] Check Pods Manifest.lock */,
+				52B7C1872179AE9400F7F530 /* Sources */,
+				52B7C1882179AE9400F7F530 /* Frameworks */,
+				52B7C1892179AE9400F7F530 /* Resources */,
+				58D3EFBD25FECE97D24F555D /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Ezgo;
+			productName = Ezgo;
+			productReference = 52B7C18B2179AE9400F7F530 /* Ezgo.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		52B7C1832179AE9400F7F530 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1000;
+				LastUpgradeCheck = 1000;
+				ORGANIZATIONNAME = "Puagnol John";
+				TargetAttributes = {
+					52B7C18A2179AE9400F7F530 = {
+						CreatedOnToolsVersion = 10.0;
+					};
+				};
+			};
+			buildConfigurationList = 52B7C1862179AE9400F7F530 /* Build configuration list for PBXProject "Ezgo" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				fr,
+				en,
+			);
+			mainGroup = 52B7C1822179AE9400F7F530;
+			productRefGroup = 52B7C18C2179AE9400F7F530 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				52B7C18A2179AE9400F7F530 /* Ezgo */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		52B7C1892179AE9400F7F530 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52379F79219C2CB300D80427 /* promo.gif in Resources */,
+				52B7C19C2179AE9800F7F530 /* LaunchScreen.storyboard in Resources */,
+				52CBD4D821C368A700A7DB02 /* Settings.storyboard in Resources */,
+				52B7C1992179AE9800F7F530 /* Assets.xcassets in Resources */,
+				52379F77219C2CB300D80427 /* fifa.gif in Resources */,
+				52CBD4DF21C377F100A7DB02 /* Menu.storyboard in Resources */,
+				52CADC0121B8DB5F00D0F58A /* Localizable.strings in Resources */,
+				52379F76219C2CB300D80427 /* carrefour.gif in Resources */,
+				52379F78219C2CB300D80427 /* oasis.gif in Resources */,
+				52AF1EB321C3C628007A0EF8 /* Catalogue.storyboard in Resources */,
+				52CBD4EE21C3B6F900A7DB02 /* Client.storyboard in Resources */,
+				5273105921AE7FA80023B7B6 /* dress.gif in Resources */,
+				52B7C1942179AE9400F7F530 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		58D3EFBD25FECE97D24F555D /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Ezgo/Pods-Ezgo-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/InteractiveSideMenu/InteractiveSideMenu.framework",
+				"${BUILT_PRODUCTS_DIR}/JTAppleCalendar/JTAppleCalendar.framework",
+				"${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/InteractiveSideMenu.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JTAppleCalendar.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SDWebImage.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Ezgo/Pods-Ezgo-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		98FC04BBAAE89A3F32D48B68 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Ezgo-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		52B7C1872179AE9400F7F530 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52CBD4E621C37AC600A7DB02 /* MenuController.swift in Sources */,
+				52528D84217D8DE200AA4919 /* ScannerController.swift in Sources */,
+				52379F59219BF17100D80427 /* RefreshUser.swift in Sources */,
+				526FEDCF21C1313400E138BC /* RecupMag.swift in Sources */,
+				521732062199BCB000671881 /* NewUser.swift in Sources */,
+				5217320A219AB52500671881 /* gifGestion.swift in Sources */,
+				52B7C1A72179B61900F7F530 /* BienvenueController.swift in Sources */,
+				5217320C219AEC6B00671881 /* InformationPersonnellesController.swift in Sources */,
+				52CBD4EA21C397AE00A7DB02 /* Constantes.swift in Sources */,
+				52CADBFE21B7B22600D0F58A /* SettingsController.swift in Sources */,
+				52173213219B004900671881 /* AllCatalogueController.swift in Sources */,
+				52528D82217D8AB800AA4919 /* ConnexionController.swift in Sources */,
+				52379F7B219C344E00D80427 /* ShareController.swift in Sources */,
+				5241E741217EFD6000F20BF5 /* GestionJSON.swift in Sources */,
+				52B7C1AA2179B6E800F7F530 /* app.swift in Sources */,
+				52173208219AB42B00671881 /* CustomView.swift in Sources */,
+				52379F7D219C347A00D80427 /* PubViewController.swift in Sources */,
+				52528D8C217DAF4000AA4919 /* ClientInfoController.swift in Sources */,
+				52B7C1972179AE9400F7F530 /* Ezgo.xcdatamodeld in Sources */,
+				52173217219B028E00671881 /* ShowCatalogueController.swift in Sources */,
+				52528D86217D901300AA4919 /* Connexion.swift in Sources */,
+				52CBD4EC21C3981700A7DB02 /* CustomMenuSlideView.swift in Sources */,
+				5217320E219AF2E300671881 /* EditClientController.swift in Sources */,
+				52B7C18F2179AE9400F7F530 /* AppDelegate.swift in Sources */,
+				52173210219AF51100671881 /* UpdateUser.swift in Sources */,
+				52173215219B019600671881 /* CategorieController.swift in Sources */,
+				52CBD4E821C38D0A00A7DB02 /* MenuSlideCell.swift in Sources */,
+				527A2DB921C2311200B782C7 /* NavigationController.swift in Sources */,
+				52AF1EB921C3DF3F007A0EF8 /* RoundIV.swift in Sources */,
+				52CBD4E221C3795900A7DB02 /* RootController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		52B7C1922179AE9400F7F530 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				52B7C1932179AE9400F7F530 /* Base */,
+				52CADC0521B8DD0100D0F58A /* fr */,
+				52CADC0721B8DD4500D0F58A /* en */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		52B7C19A2179AE9800F7F530 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				52B7C19B2179AE9800F7F530 /* Base */,
+				52CADC0621B8DD0200D0F58A /* fr */,
+				52CADC0821B8DD4500D0F58A /* en */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		52CADC0321B8DB5F00D0F58A /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				52CADC0421B8DD0100D0F58A /* fr */,
+				52CADC0921B8DD4500D0F58A /* en */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		52B7C19E2179AE9800F7F530 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		52B7C19F2179AE9800F7F530 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		52B7C1A12179AE9800F7F530 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4E60144A0B68BC3D1C9219B0 /* Pods-Ezgo.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = HF6L99R7WG;
+				INFOPLIST_FILE = Ezgo/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Ezgo-demo";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		52B7C1A22179AE9800F7F530 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6C726175AC432A4C65C02705 /* Pods-Ezgo.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = HF6L99R7WG;
+				INFOPLIST_FILE = Ezgo/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Ezgo-demo";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		52B7C1862179AE9400F7F530 /* Build configuration list for PBXProject "Ezgo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52B7C19E2179AE9800F7F530 /* Debug */,
+				52B7C19F2179AE9800F7F530 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		52B7C1A02179AE9800F7F530 /* Build configuration list for PBXNativeTarget "Ezgo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52B7C1A12179AE9800F7F530 /* Debug */,
+				52B7C1A22179AE9800F7F530 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		52B7C1952179AE9400F7F530 /* Ezgo.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				52B7C1962179AE9400F7F530 /* Ezgo.xcdatamodel */,
+			);
+			currentVersion = 52B7C1962179AE9400F7F530 /* Ezgo.xcdatamodel */;
+			path = Ezgo.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 52B7C1832179AE9400F7F530 /* Project object */;
+}

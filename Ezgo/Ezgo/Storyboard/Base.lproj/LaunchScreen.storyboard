@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="douchette" translatesAutoresizingMaskIntoConstraints="NO" id="9Cm-VT-IiB">
+                                <rect key="frame" x="40" y="120" width="295" height="287"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="orkaisse" translatesAutoresizingMaskIntoConstraints="NO" id="d9H-Wk-aQS">
+                                <rect key="frame" x="137.5" y="607" width="100" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="eGL-Qh-eou"/>
+                                    <constraint firstAttribute="width" constant="100" id="rrL-r2-imv"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="d9H-Wk-aQS" secondAttribute="bottom" constant="10" id="GCG-Eo-n4A"/>
+                            <constraint firstItem="9Cm-VT-IiB" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="100" id="GOR-dc-CGk"/>
+                            <constraint firstItem="d9H-Wk-aQS" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="K8q-8O-WSE"/>
+                            <constraint firstItem="d9H-Wk-aQS" firstAttribute="top" secondItem="9Cm-VT-IiB" secondAttribute="bottom" constant="200" id="OX9-VA-21i"/>
+                            <constraint firstItem="9Cm-VT-IiB" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="40" id="bKq-M6-UYj"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="9Cm-VT-IiB" secondAttribute="trailing" constant="40" id="qIO-2n-Qy3"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="53" y="375"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="douchette" width="335.25" height="334.5"/>
+        <image name="orkaisse" width="517.5" height="279"/>
+    </resources>
+</document>

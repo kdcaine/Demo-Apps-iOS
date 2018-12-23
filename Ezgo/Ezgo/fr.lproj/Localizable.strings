@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  Ezgo
+
+  Created by Puagnol John on 06/12/2018.
+  Copyright © 2018 Puagnol John. All rights reserved.
+*/
+
+"ERROR_MESSAGE_1" = "Argument manquant";
+"ERROR_MESSAGE_11" = "EAN inconnu";
+"ERROR_MESSAGE_12" = "Erreur lors de la valorisation du panier";
+"ERROR_MESSAGE_21" = "Pas d’ip renseignée pour le serveur magasin";
+"ERROR_MESSAGE_22" = "Serveur magasin non accessible";
+"ERROR_MESSAGE_23" = "Enregistrement impossible";
+"ERROR_MESSAGE_24" = "Envoi à la caisse impossible";
+"ERROR_MESSAGE_25" = "Adresse ip du magasin non renseignée";
+"ERROR_MESSAGE_26" = "Adresse ip de la caisse non renseignée";
+"ERROR_MESSAGE_41" = "Adresse email invalide";
+"ERROR_MESSAGE_42" = "Un client déjà existant avec cet email";
+"ERROR_MESSAGE_43" = "Pas de client trouvé";
+"ERROR_MESSAGE_44" = "Erreur durant l’appel à Orkarte";
+"ERROR_MESSAGE_500" = "Erreur interne";
+"ERROR_MESSAGE_404" = "Service inconnu";

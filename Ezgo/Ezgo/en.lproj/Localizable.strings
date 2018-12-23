@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  Ezgo
+
+  Created by Puagnol John on 06/12/2018.
+  Copyright © 2018 Puagnol John. All rights reserved.
+*/
+
+"ERROR_MESSAGE_1" = "Missing argument";
+"ERROR_MESSAGE_11" = "Unknown EAN";
+"ERROR_MESSAGE_12" = "Erreur lors de la valorisation du panier";
+"ERROR_MESSAGE_21" = "No ip filled in for the server";
+"ERROR_MESSAGE_22" = "Store server not accessible";
+"ERROR_MESSAGE_23" = "Can not record";
+"ERROR_MESSAGE_24" = "Can't send to the cash register";
+"ERROR_MESSAGE_25" = "Adresse ip du magasin non renseignée";
+"ERROR_MESSAGE_26" = "Adresse ip de la caisse non renseignée";
+"ERROR_MESSAGE_41" = "Invalid email address";
+"ERROR_MESSAGE_42" = "An already existing customer with this email";
+"ERROR_MESSAGE_43" = "No customer found";
+"ERROR_MESSAGE_44" = "Error while calling Orkarte";
+"ERROR_MESSAGE_500" = "Internal error";
+"ERROR_MESSAGE_404" = "Unknown service";

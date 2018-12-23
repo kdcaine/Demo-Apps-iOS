@@ -1,0 +1,615 @@
+
+/* Class = "UIButton"; normalTitle = "Se Connecter"; ObjectID = "0LG-Fm-KOG"; */
+"0LG-Fm-KOG.normalTitle" = "Se Connecter";
+
+/* Class = "UILabel"; text = "Pays : "; ObjectID = "0YU-0F-VKk"; */
+"0YU-0F-VKk.text" = "Pays : ";
+
+/* Class = "UINavigationItem"; title = "Information client"; ObjectID = "1Ro-2Z-WG9"; */
+"1Ro-2Z-WG9.title" = "Information client";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "1tt-HT-dmf"; */
+"1tt-HT-dmf.text" = "Total";
+
+/* Class = "UILabel"; text = "Client"; ObjectID = "1uX-ER-ZBh"; */
+"1uX-ER-ZBh.text" = "Client";
+
+/* Class = "UILabel"; text = "Ticket"; ObjectID = "21I-pm-xGD"; */
+"21I-pm-xGD.text" = "Ticket";
+
+/* Class = "UILabel"; text = "Prénom :"; ObjectID = "25t-TY-YBi"; */
+"25t-TY-YBi.text" = "Prénom :";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "2HK-Ou-PL1"; */
+"2HK-Ou-PL1.text" = "0";
+
+/* Class = "UILabel"; text = "Mot de passe :"; ObjectID = "2Z8-r4-lb6"; */
+"2Z8-r4-lb6.text" = "Mot de passe :";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "2ac-QI-gJ2"; */
+"2ac-QI-gJ2.text" = "00";
+
+/* Class = "UILabel"; text = "Catalogue"; ObjectID = "2gA-p4-TB8"; */
+"2gA-p4-TB8.text" = "Catalogue";
+
+/* Class = "UILabel"; text = "Client"; ObjectID = "3cs-3x-Qah"; */
+"3cs-3x-Qah.text" = "Client";
+
+/* Class = "UILabel"; text = "Scan"; ObjectID = "3sa-Oa-OQ1"; */
+"3sa-Oa-OQ1.text" = "Scan";
+
+/* Class = "UILabel"; text = "Catalogue"; ObjectID = "3uo-ic-Loq"; */
+"3uo-ic-Loq.text" = "Catalogue";
+
+/* Class = "UILabel"; text = "0,00 €"; ObjectID = "3wL-Nc-Zkc"; */
+"3wL-Nc-Zkc.text" = "0,00 €";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "4Gj-Xa-azV"; */
+"4Gj-Xa-azV.text" = "0";
+
+/* Class = "UILabel"; text = "0693123456"; ObjectID = "4KY-Qs-5jg"; */
+"4KY-Qs-5jg.text" = "0693123456";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4ZD-wv-eEl"; */
+"4ZD-wv-eEl.text" = "Label";
+
+/* Class = "UILabel"; text = "Scan"; ObjectID = "4fM-ye-aBH"; */
+"4fM-ye-aBH.text" = "Scan";
+
+/* Class = "UILabel"; text = "Créer un compte"; ObjectID = "5BQ-Zl-RYd"; */
+"5BQ-Zl-RYd.text" = "Créer un compte";
+
+/* Class = "UILabel"; text = "x 1"; ObjectID = "5Pl-5O-TSH"; */
+"5Pl-5O-TSH.text" = "x 1";
+
+/* Class = "UILabel"; text = "Autre catalogue :"; ObjectID = "5Va-eb-s54"; */
+"5Va-eb-s54.text" = "Autre catalogue :";
+
+/* Class = "UIButton"; normalTitle = "Valider"; ObjectID = "5uE-2C-cvw"; */
+"5uE-2C-cvw.normalTitle" = "Valider";
+
+/* Class = "UILabel"; text = "Nom de la liste :"; ObjectID = "5vR-Ob-Xx6"; */
+"5vR-Ob-Xx6.text" = "Nom de la liste :";
+
+/* Class = "UILabel"; text = "Client"; ObjectID = "6Dh-Af-MSI"; */
+"6Dh-Af-MSI.text" = "Client";
+
+/* Class = "UILabel"; text = "Client"; ObjectID = "6Vk-Gc-SE1"; */
+"6Vk-Gc-SE1.text" = "Client";
+
+/* Class = "UILabel"; text = "Scanner"; ObjectID = "6YW-Xv-ZWb"; */
+"6YW-Xv-ZWb.text" = "Scanner";
+
+/* Class = "UILabel"; text = "€"; ObjectID = "6py-gq-paZ"; */
+"6py-gq-paZ.text" = "€";
+
+/* Class = "UILabel"; text = "Nom du Produit"; ObjectID = "79Q-ge-RJE"; */
+"79Q-ge-RJE.text" = "Nom du Produit";
+
+/* Class = "UILabel"; text = "Ville :"; ObjectID = "7XA-Wo-dty"; */
+"7XA-Wo-dty.text" = "Ville :";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "8Sf-RR-zE0"; */
+"8Sf-RR-zE0.text" = "0";
+
+/* Class = "UILabel"; text = "Test City "; ObjectID = "8VI-uS-bRH"; */
+"8VI-uS-bRH.text" = "Test City ";
+
+/* Class = "UILabel"; text = "Mot de passe :"; ObjectID = "8v6-GU-fwG"; */
+"8v6-GU-fwG.text" = "Mot de passe :";
+
+/* Class = "UILabel"; text = "Scan"; ObjectID = "8yV-Z7-WhI"; */
+"8yV-Z7-WhI.text" = "Scan";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "9M0-lT-Sav"; */
+"9M0-lT-Sav.text" = "1";
+
+/* Class = "UITextField"; placeholder = "Courriel"; ObjectID = "9ew-51-nys"; */
+"9ew-51-nys.placeholder" = "Courriel";
+
+/* Class = "UILabel"; text = "€"; ObjectID = "B1I-WQ-xir"; */
+"B1I-WQ-xir.text" = "€";
+
+/* Class = "UILabel"; text = "Promotions"; ObjectID = "B4b-kY-QzQ"; */
+"B4b-kY-QzQ.text" = "Promotions";
+
+/* Class = "UILabel"; text = "PASSAGE : "; ObjectID = "B5N-X6-Mw2"; */
+"B5N-X6-Mw2.text" = "PASSAGE : ";
+
+/* Class = "UILabel"; text = "Pays : "; ObjectID = "BN0-ib-asC"; */
+"BN0-ib-asC.text" = "Pays : ";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "BgC-ne-q14"; */
+"BgC-ne-q14.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "Septembre"; ObjectID = "BzX-HN-SqJ"; */
+"BzX-HN-SqJ.text" = "Septembre";
+
+/* Class = "UILabel"; text = "Adresse :"; ObjectID = "CCe-ZS-SXW"; */
+"CCe-ZS-SXW.text" = "Adresse :";
+
+/* Class = "UILabel"; text = "Catalogue"; ObjectID = "DTF-mJ-qba"; */
+"DTF-mJ-qba.text" = "Catalogue";
+
+/* Class = "UILabel"; text = "rue de test dfssfdsf dfsfdsf  dfdsf sd fdfdsf "; ObjectID = "EEC-99-rhb"; */
+"EEC-99-rhb.text" = "rue de test dfssfdsf dfsfdsf  dfdsf sd fdfdsf ";
+
+/* Class = "UIButton"; normalTitle = "Revenir en arrière"; ObjectID = "EOn-1N-qEh"; */
+"EOn-1N-qEh.normalTitle" = "Revenir en arrière";
+
+/* Class = "UILabel"; text = "Partager à mes contacts"; ObjectID = "EfK-e7-8Lx"; */
+"EfK-e7-8Lx.text" = "Partager à mes contacts";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "EzD-fM-39X"; */
+"EzD-fM-39X.text" = "Label";
+
+/* Class = "UILabel"; text = "Catalogue"; ObjectID = "F8H-55-AU3"; */
+"F8H-55-AU3.text" = "Catalogue";
+
+/* Class = "UILabel"; text = "Mon calendrier de repas"; ObjectID = "FM6-yF-fZ5"; */
+"FM6-yF-fZ5.text" = "Mon calendrier de repas";
+
+/* Class = "UILabel"; text = "Pas de code barre détecté"; ObjectID = "Fj6-eL-4Xg"; */
+"Fj6-eL-4Xg.text" = "Pas de code barre détecté";
+
+/* Class = "UILabel"; text = "Nom du Produit"; ObjectID = "FqN-c4-qzk"; */
+"FqN-c4-qzk.text" = "Nom du Produit";
+
+/* Class = "UINavigationItem"; title = "Prospectus"; ObjectID = "FrR-V4-rt0"; */
+"FrR-V4-rt0.title" = "Prospectus";
+
+/* Class = "UILabel"; text = "Offres promotionnelles"; ObjectID = "Ftn-QR-n3a"; */
+"Ftn-QR-n3a.text" = "Offres promotionnelles";
+
+/* Class = "UILabel"; text = "Code Postal :"; ObjectID = "Gu2-tG-9U9"; */
+"Gu2-tG-9U9.text" = "Code Postal :";
+
+/* Class = "UITextField"; placeholder = "Code Postal"; ObjectID = "GuN-KK-G3D"; */
+"GuN-KK-G3D.placeholder" = "Code Postal";
+
+/* Class = "UILabel"; text = "Offres du moment"; ObjectID = "Gxw-4I-zEy"; */
+"Gxw-4I-zEy.text" = "Offres du moment";
+
+/* Class = "UILabel"; text = "Conditions d'utilisations "; ObjectID = "H3w-Z7-BuD"; */
+"H3w-Z7-BuD.text" = "Conditions d'utilisations ";
+
+/* Class = "UILabel"; text = "Nom : "; ObjectID = "HPH-HE-nbd"; */
+"HPH-HE-nbd.text" = "Nom : ";
+
+/* Class = "UILabel"; text = "Pas de code barre détecté"; ObjectID = "Hfw-Jh-PWf"; */
+"Hfw-Jh-PWf.text" = "Pas de code barre détecté";
+
+/* Class = "UILabel"; text = "Client"; ObjectID = "IFw-9B-4pw"; */
+"IFw-9B-4pw.text" = "Client";
+
+/* Class = "UILabel"; text = "Catégories :"; ObjectID = "IM3-YW-s9X"; */
+"IM3-YW-s9X.text" = "Catégories :";
+
+/* Class = "UILabel"; text = "Adresse mail :"; ObjectID = "Iiu-GM-5NH"; */
+"Iiu-GM-5NH.text" = "Adresse mail :";
+
+/* Class = "UITextField"; placeholder = "Prénom"; ObjectID = "In5-AE-NhJ"; */
+"In5-AE-NhJ.placeholder" = "Prénom";
+
+/* Class = "UILabel"; text = "Aucune offres sélectionnées"; ObjectID = "Irw-tQ-P6C"; */
+"Irw-tQ-P6C.text" = "Aucune offres sélectionnées";
+
+/* Class = "UILabel"; text = "x 1"; ObjectID = "J8u-kH-6oE"; */
+"J8u-kH-6oE.text" = "x 1";
+
+/* Class = "UILabel"; text = "0000000000000"; ObjectID = "JVs-2K-cYo"; */
+"JVs-2K-cYo.text" = "0000000000000";
+
+/* Class = "UILabel"; text = "10 €"; ObjectID = "KVw-qM-4de"; */
+"KVw-qM-4de.text" = "10 €";
+
+/* Class = "UITextField"; placeholder = "Numéro de carte de fidélité ou email"; ObjectID = "KYa-H9-P63"; */
+"KYa-H9-P63.placeholder" = "Numéro de carte de fidélité ou email";
+
+/* Class = "UILabel"; text = "Code Postal :"; ObjectID = "Lkp-Ea-PiK"; */
+"Lkp-Ea-PiK.text" = "Code Postal :";
+
+/* Class = "UILabel"; text = "Adresse Mail :"; ObjectID = "MAd-SG-Mff"; */
+"MAd-SG-Mff.text" = "Adresse Mail :";
+
+/* Class = "UILabel"; text = "Client"; ObjectID = "MWe-L3-JHH"; */
+"MWe-L3-JHH.text" = "Client";
+
+/* Class = "UIButton"; normalTitle = "Retour au panier"; ObjectID = "Mwg-Fn-t4A"; */
+"Mwg-Fn-t4A.normalTitle" = "Retour au panier";
+
+/* Class = "UILabel"; text = "Promotions"; ObjectID = "N7U-ba-BFU"; */
+"N7U-ba-BFU.text" = "Promotions";
+
+/* Class = "UITextField"; placeholder = "Pays"; ObjectID = "NFh-EK-lMH"; */
+"NFh-EK-lMH.placeholder" = "Pays";
+
+/* Class = "UILabel"; text = "Ticket"; ObjectID = "Naq-yJ-Jrl"; */
+"Naq-yJ-Jrl.text" = "Ticket";
+
+/* Class = "UITabBarItem"; title = "Catalogue"; ObjectID = "Nd5-zN-H2d"; */
+"Nd5-zN-H2d.title" = "Catalogue";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "O2u-Lp-pSH"; */
+"O2u-Lp-pSH.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "Sam"; ObjectID = "O6P-Og-mNv"; */
+"O6P-Og-mNv.text" = "Sam";
+
+/* Class = "UINavigationItem"; title = "Bienvenue"; ObjectID = "OKf-ZF-pIx"; */
+"OKf-ZF-pIx.title" = "Bienvenue";
+
+/* Class = "UILabel"; text = "Valeurs nutritionnelles pour 100g"; ObjectID = "P4e-sF-z49"; */
+"P4e-sF-z49.text" = "Valeurs nutritionnelles pour 100g";
+
+/* Class = "UITextView"; text = "\nARTICLE 1 : ACCÈS ET UTILISATION DES INFORMATIONS DE L'APPLICATION\n\n\n1.1 Les équipements et moyens matériels permettant à l'Application sont à la charge exclusive de l'Utilisateur. Ce dernier prend également à sa charge propre les frais de télécommunication induits pour accéder et consulter l'Application.\n1.2 L'Editeur accorde à l'Utilisateur un droit de consultation, d'utilisation et d'accès aux Informations de l'Application. A cet égard, l'Utilisateur s'engage notamment à :\n• ne télécharger les Informations sur son équipement que pour un usage exclusivement personnel et non marchand,\n• ne copier les Informations sur support papier que sous réserve des trois conditions suivantes :\no que ces copies ne fassent l'objet que d'un usage exclusivement personnel ;\no que les documents reproduits ne soient ni modifiés ni altérés en aucune manière ;\no que la source soit clairement mentionnée, par exemple sous la forme \"Ce document provient de l'Application X (avec mention obligatoire du nom de l'application, X pouvant être soit le nom de la Publication soit le nom de l’Editeur), édité par l’Editeur et la Publication. Droits de reproduction réservés et strictement limités.\" L'adresse de l'Application doit expressément figurer dans la référence ;\n• à ne pas recopier l'Application sur un autre site ou une autre Application\n• à ne pas reproduire en tout ou partie les données visuelles, textuelles, sonores et vidéos disponibles sur l’Application sauf accord écrit et préalable de la Publication ;\n• à ne pas extraire ou réutiliser, y compris à des fins privées, sans autorisation écrite et préalable de la Publication, une partie substantielle ou non du contenu des bases de données et archives constituées par l'Application ;\n• à informer la Publication dès la connaissance d'un \"piratage\" et en particulier de toute utilisation illicite ou non contractuelle des Informations et ce, quel que soit le mode de diffusion utilisé.\n\n\nARTICLE 2 : PROPRIÉTÉ INTELLECTUELLE\n\n2.1 L'Editeur est propriétaire exclusif de tous les droits de propriété intellectuelle portant sur la structure de l'Application, sauf mention expresse contraire.\nLa Publication est propriétaire exclusif de tous les droits de propriété intellectuelle portant sur le contenu de l'Application, sauf mention expresse contraire.\n2.2 Les présentes CGU n'entrainent le transfert d'aucun droit de propriété intellectuelle au profit de l'Utilisateur tant sur la structure que sur le contenu de l'Application, ses Services ainsi que sur celui de l'Application.\n2.3 L'Utilisateur s'engage expressément à ce que l'utilisation de l'Application ne porte en aucun cas atteinte aux droits de l'Editeur et de la Publication, et notamment à ce que cette utilisation ne constitue pas une contrefaçon ou une concurrence déloyale ou parasitaire des Informations.\n\nARTICLE 3 : PROTECTION DES DONNÉES PERSONNELLES\n\n3.1 L'Editeur et la Publication respecte la vie privée des Utilisateurs et se conforme strictement aux lois en vigueur sur la protection de la vie privée et des libertés individuelles. Les informations communiquées par l'Utilisateur du fait des formulaires présents sur l'Application sont nécessaires pour le bon fonctionnement des services de l’application.\n3.2 En Application des dispositions de la loi n° 78-17 du 6 janvier 1978 'Informatique et Libertés', telle que modifiée par la loi n° 2004-801 du 7 août 2004, relative à l'informatique, aux fichiers et aux libertés, chaque Utilisateur dispose d'un droit d'opposition, d'accès, de rectification et de suppression des données le concernant. Chaque Utilisateur peut exercer ce droit en écrivant à la Publication soit par courrier postal, soit par courrier électronique.\n\n\nARTICLE 4 : DISPONIBILITÉ DE L'APPLICATION\n\nL'Editeur s'engage à faire ses meilleurs efforts pour sécuriser l'accès, la consultation et l'utilisation des Informations et/ou des services de l’Application.\n\nL'Utilisateur déclare accepter les caractéristiques et les limites de l'Internet mobile et des systèmes d'exploitation des Applications, et en particulier reconnaître que :\n\n• son utilisation de l'Application se fait à ses risques et périls ; l'Application lui est accessible \"en état\" et en fonction de sa disponibilité ;\n• les performances techniques de l'Internet Mobile requièrent un temps de traitement nécessaire pour répondre, consulter, interroger ou transférer les Informations.\n\n\nARTICLE 5 : LIMITATIONS TECHNIQUES\n\n5.1 L’utilisateur doit s’assurer d’avoir une connexion internet suffisante pour le fonctionnement de l’Application. L’Editeur n’est pas responsable du mauvais fonctionnement de l’Application en cas d’absence ou de faible connexion internet. Certains services peuvent ne pas fonctionner en cas de mauvaises connexions internet.\n5.2 Pour le bon fonctionnement des services de l’Application, il est nécessaire que certaines fonctionnalités du téléphone portable soit activées (mail, réseaux, …). Si ces fonctionnalités ne sont pas activées ou présentes sur le téléphone portable de l’utilisateur, certains services ne seront pas fonctionnels sur l’Application. L’Editeur ne pourra pas être tenu responsable des services non fonctionnels.\n5.3 L’Editeur s’assure à la publication de l’Application sur les stores que l’Application soit compatible avec la plupart des appareils de type téléphone portable du marché. Du fait du grand nombre de modèle, de systèmes d’exploitations divers (à jour ou non), des surcouches éventuels des opérateurs, et des différents logiciels installés par l’Utilisateur, l’Editeur ne peut garantir la parfaite compatibilité de l’Application avec les téléphones portables et ne sera donc pas responsable de mauvais fonctionnement.\n\n\nARTICLE 6 : GARANTIE\n\n6.1 Chaque Utilisateur s'engage expressément :\n• à ne pas utiliser de logiciels ou de procédés destiné à copier le contenu de l'Application sans l'autorisation expresse et préalable de l'Editeur.\n• à renoncer expressément à utiliser des logiciels ou dispositifs susceptibles de perturber le bon fonctionnement de l’Application, ni à engager d'action de nature à imposer une charge disproportionnée pour les infrastructures de l'Editeur.\n• à ne pas altérer ou modifier voire créer des œuvres dérivées à partir du contenu de l'Application sans consentement.\n• à accepter les caractéristiques et les limites de l'Internet Mobile, et en particulier reconnaître que :\no l'utilisation de l'Application se fait à ses risques et périls ; l'Application lui est accessible « en l'état » et en fonction de sa disponibilité ;\no la protection de ses propres données et/ou logiciels lui incombe et il lui appartient de prendre toutes les mesures appropriées de façon à les protéger des éventuels virus circulant dans l'Application;\no les performances techniques de l'Internet Mobile requièrent un temps de traitement nécessaire pour répondre, consulter, interroger ou transférer le contenu de l'Application;\n• ne procéder à des courtes citations, analyses et reproductions destinées à des revues de presse ainsi qu'aux autres utilisations expressément autorisées par la loi dans les limites et conditions fixées par cette dernière et sous réserve notamment de citer le nom des auteurs et la source éditoriale ;\n• à ne pas extraire ou réutiliser, y compris à des fins privées, sans autorisation écrite et préalable de l'Editeur, une partie substantielle ou non du contenu des bases de données et archives constituées par l'Application;\n• à mettre en place des systèmes susceptibles ou de nature à pirater l'Application en tout ou partie, ou de nature à violer les présentes CGU ;\n• à informer l'Editeur dès la connaissance d'un piratage et en particulier de toute utilisation illicite ou non contractuelle du contenu de l'Application et ce, quel que soit le mode de diffusion utilisé.\n"; ObjectID = "P4j-3Y-xjV"; */
+"P4j-3Y-xjV.text" = "\nARTICLE 1 : ACCÈS ET UTILISATION DES INFORMATIONS DE L'APPLICATION\n\n\n1.1 Les équipements et moyens matériels permettant à l'Application sont à la charge exclusive de l'Utilisateur. Ce dernier prend également à sa charge propre les frais de télécommunication induits pour accéder et consulter l'Application.\n1.2 L'Editeur accorde à l'Utilisateur un droit de consultation, d'utilisation et d'accès aux Informations de l'Application. A cet égard, l'Utilisateur s'engage notamment à :\n• ne télécharger les Informations sur son équipement que pour un usage exclusivement personnel et non marchand,\n• ne copier les Informations sur support papier que sous réserve des trois conditions suivantes :\no que ces copies ne fassent l'objet que d'un usage exclusivement personnel ;\no que les documents reproduits ne soient ni modifiés ni altérés en aucune manière ;\no que la source soit clairement mentionnée, par exemple sous la forme \"Ce document provient de l'Application X (avec mention obligatoire du nom de l'application, X pouvant être soit le nom de la Publication soit le nom de l’Editeur), édité par l’Editeur et la Publication. Droits de reproduction réservés et strictement limités.\" L'adresse de l'Application doit expressément figurer dans la référence ;\n• à ne pas recopier l'Application sur un autre site ou une autre Application\n• à ne pas reproduire en tout ou partie les données visuelles, textuelles, sonores et vidéos disponibles sur l’Application sauf accord écrit et préalable de la Publication ;\n• à ne pas extraire ou réutiliser, y compris à des fins privées, sans autorisation écrite et préalable de la Publication, une partie substantielle ou non du contenu des bases de données et archives constituées par l'Application ;\n• à informer la Publication dès la connaissance d'un \"piratage\" et en particulier de toute utilisation illicite ou non contractuelle des Informations et ce, quel que soit le mode de diffusion utilisé.\n\n\nARTICLE 2 : PROPRIÉTÉ INTELLECTUELLE\n\n2.1 L'Editeur est propriétaire exclusif de tous les droits de propriété intellectuelle portant sur la structure de l'Application, sauf mention expresse contraire.\nLa Publication est propriétaire exclusif de tous les droits de propriété intellectuelle portant sur le contenu de l'Application, sauf mention expresse contraire.\n2.2 Les présentes CGU n'entrainent le transfert d'aucun droit de propriété intellectuelle au profit de l'Utilisateur tant sur la structure que sur le contenu de l'Application, ses Services ainsi que sur celui de l'Application.\n2.3 L'Utilisateur s'engage expressément à ce que l'utilisation de l'Application ne porte en aucun cas atteinte aux droits de l'Editeur et de la Publication, et notamment à ce que cette utilisation ne constitue pas une contrefaçon ou une concurrence déloyale ou parasitaire des Informations.\n\nARTICLE 3 : PROTECTION DES DONNÉES PERSONNELLES\n\n3.1 L'Editeur et la Publication respecte la vie privée des Utilisateurs et se conforme strictement aux lois en vigueur sur la protection de la vie privée et des libertés individuelles. Les informations communiquées par l'Utilisateur du fait des formulaires présents sur l'Application sont nécessaires pour le bon fonctionnement des services de l’application.\n3.2 En Application des dispositions de la loi n° 78-17 du 6 janvier 1978 'Informatique et Libertés', telle que modifiée par la loi n° 2004-801 du 7 août 2004, relative à l'informatique, aux fichiers et aux libertés, chaque Utilisateur dispose d'un droit d'opposition, d'accès, de rectification et de suppression des données le concernant. Chaque Utilisateur peut exercer ce droit en écrivant à la Publication soit par courrier postal, soit par courrier électronique.\n\n\nARTICLE 4 : DISPONIBILITÉ DE L'APPLICATION\n\nL'Editeur s'engage à faire ses meilleurs efforts pour sécuriser l'accès, la consultation et l'utilisation des Informations et/ou des services de l’Application.\n\nL'Utilisateur déclare accepter les caractéristiques et les limites de l'Internet mobile et des systèmes d'exploitation des Applications, et en particulier reconnaître que :\n\n• son utilisation de l'Application se fait à ses risques et périls ; l'Application lui est accessible \"en état\" et en fonction de sa disponibilité ;\n• les performances techniques de l'Internet Mobile requièrent un temps de traitement nécessaire pour répondre, consulter, interroger ou transférer les Informations.\n\n\nARTICLE 5 : LIMITATIONS TECHNIQUES\n\n5.1 L’utilisateur doit s’assurer d’avoir une connexion internet suffisante pour le fonctionnement de l’Application. L’Editeur n’est pas responsable du mauvais fonctionnement de l’Application en cas d’absence ou de faible connexion internet. Certains services peuvent ne pas fonctionner en cas de mauvaises connexions internet.\n5.2 Pour le bon fonctionnement des services de l’Application, il est nécessaire que certaines fonctionnalités du téléphone portable soit activées (mail, réseaux, …). Si ces fonctionnalités ne sont pas activées ou présentes sur le téléphone portable de l’utilisateur, certains services ne seront pas fonctionnels sur l’Application. L’Editeur ne pourra pas être tenu responsable des services non fonctionnels.\n5.3 L’Editeur s’assure à la publication de l’Application sur les stores que l’Application soit compatible avec la plupart des appareils de type téléphone portable du marché. Du fait du grand nombre de modèle, de systèmes d’exploitations divers (à jour ou non), des surcouches éventuels des opérateurs, et des différents logiciels installés par l’Utilisateur, l’Editeur ne peut garantir la parfaite compatibilité de l’Application avec les téléphones portables et ne sera donc pas responsable de mauvais fonctionnement.\n\n\nARTICLE 6 : GARANTIE\n\n6.1 Chaque Utilisateur s'engage expressément :\n• à ne pas utiliser de logiciels ou de procédés destiné à copier le contenu de l'Application sans l'autorisation expresse et préalable de l'Editeur.\n• à renoncer expressément à utiliser des logiciels ou dispositifs susceptibles de perturber le bon fonctionnement de l’Application, ni à engager d'action de nature à imposer une charge disproportionnée pour les infrastructures de l'Editeur.\n• à ne pas altérer ou modifier voire créer des œuvres dérivées à partir du contenu de l'Application sans consentement.\n• à accepter les caractéristiques et les limites de l'Internet Mobile, et en particulier reconnaître que :\no l'utilisation de l'Application se fait à ses risques et périls ; l'Application lui est accessible « en l'état » et en fonction de sa disponibilité ;\no la protection de ses propres données et/ou logiciels lui incombe et il lui appartient de prendre toutes les mesures appropriées de façon à les protéger des éventuels virus circulant dans l'Application;\no les performances techniques de l'Internet Mobile requièrent un temps de traitement nécessaire pour répondre, consulter, interroger ou transférer le contenu de l'Application;\n• ne procéder à des courtes citations, analyses et reproductions destinées à des revues de presse ainsi qu'aux autres utilisations expressément autorisées par la loi dans les limites et conditions fixées par cette dernière et sous réserve notamment de citer le nom des auteurs et la source éditoriale ;\n• à ne pas extraire ou réutiliser, y compris à des fins privées, sans autorisation écrite et préalable de l'Editeur, une partie substantielle ou non du contenu des bases de données et archives constituées par l'Application;\n• à mettre en place des systèmes susceptibles ou de nature à pirater l'Application en tout ou partie, ou de nature à violer les présentes CGU ;\n• à informer l'Editeur dès la connaissance d'un piratage et en particulier de toute utilisation illicite ou non contractuelle du contenu de l'Application et ce, quel que soit le mode de diffusion utilisé.\n";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PFy-xM-FJF"; */
+"PFy-xM-FJF.text" = "Label";
+
+/* Class = "UILabel"; text = "Catalogue"; ObjectID = "PWM-F3-F0d"; */
+"PWM-F3-F0d.text" = "Catalogue";
+
+/* Class = "UIButton"; normalTitle = "Revenir en arrière"; ObjectID = "Q3m-yz-jGq"; */
+"Q3m-yz-jGq.normalTitle" = "Revenir en arrière";
+
+/* Class = "UILabel"; text = "Ticket"; ObjectID = "Q8X-c1-tQu"; */
+"Q8X-c1-tQu.text" = "Ticket";
+
+/* Class = "UILabel"; text = "Catalogue du moment :"; ObjectID = "Q9N-Rj-kMj"; */
+"Q9N-Rj-kMj.text" = "Catalogue du moment :";
+
+/* Class = "UILabel"; text = "Selectionner la quantité :"; ObjectID = "Qjt-oc-JlZ"; */
+"Qjt-oc-JlZ.text" = "Selectionner la quantité :";
+
+/* Class = "UITextField"; placeholder = "Ville"; ObjectID = "RGv-PG-CX1"; */
+"RGv-PG-CX1.placeholder" = "Ville";
+
+/* Class = "UILabel"; text = "Offres du jour"; ObjectID = "RHn-xR-Ipz"; */
+"RHn-xR-Ipz.text" = "Offres du jour";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "RTk-sz-F20"; */
+"RTk-sz-F20.text" = "Label";
+
+/* Class = "UILabel"; text = "Mot de passe : "; ObjectID = "Sao-iq-Zu3"; */
+"Sao-iq-Zu3.text" = "Mot de passe : ";
+
+/* Class = "UILabel"; text = "Aucune offres disponibles"; ObjectID = "SbW-Fe-4Pd"; */
+"SbW-Fe-4Pd.text" = "Aucune offres disponibles";
+
+/* Class = "UILabel"; text = "Client"; ObjectID = "SgG-Nu-SbC"; */
+"SgG-Nu-SbC.text" = "Client";
+
+/* Class = "UILabel"; text = "Ma liste"; ObjectID = "VIo-EP-A5L"; */
+"VIo-EP-A5L.text" = "Ma liste";
+
+/* Class = "UILabel"; text = "Partager ma liste de course :"; ObjectID = "VMb-UA-eA7"; */
+"VMb-UA-eA7.text" = "Partager ma liste de course :";
+
+/* Class = "UILabel"; text = "PRIX"; ObjectID = "Vgl-vG-296"; */
+"Vgl-vG-296.text" = "PRIX";
+
+/* Class = "UILabel"; text = "Code Postal :"; ObjectID = "VjT-wY-brf"; */
+"VjT-wY-brf.text" = "Code Postal :";
+
+/* Class = "UILabel"; text = "Catalogue"; ObjectID = "WCf-lY-JcQ"; */
+"WCf-lY-JcQ.text" = "Catalogue";
+
+/* Class = "UILabel"; text = "Nom Article : "; ObjectID = "WRH-iP-8Kl"; */
+"WRH-iP-8Kl.text" = "Nom Article : ";
+
+/* Class = "UILabel"; text = "utilisateur.test@orika.fr"; ObjectID = "Wek-P7-wm7"; */
+"Wek-P7-wm7.text" = "utilisateur.test@orika.fr";
+
+/* Class = "UILabel"; text = "Terminer"; ObjectID = "WkC-Il-AcL"; */
+"WkC-Il-AcL.text" = "Terminer";
+
+/* Class = "UILabel"; text = "Promotions"; ObjectID = "Woh-Oh-sPe"; */
+"Woh-Oh-sPe.text" = "Promotions";
+
+/* Class = "UILabel"; text = "Promotions"; ObjectID = "WzS-iW-p2Y"; */
+"WzS-iW-p2Y.text" = "Promotions";
+
+/* Class = "UILabel"; text = "Scanner le code barre de la caisse."; ObjectID = "X4D-np-rsQ"; */
+"X4D-np-rsQ.text" = "Scanner le code barre de la caisse.";
+
+/* Class = "UILabel"; text = "Offres choisie(s) :"; ObjectID = "XFl-Pm-3WY"; */
+"XFl-Pm-3WY.text" = "Offres choisie(s) :";
+
+/* Class = "UILabel"; text = "10 €"; ObjectID = "XNX-9T-hm8"; */
+"XNX-9T-hm8.text" = "10 €";
+
+/* Class = "UITextField"; placeholder = "Courriel"; ObjectID = "Xen-8W-bvA"; */
+"Xen-8W-bvA.placeholder" = "Courriel";
+
+/* Class = "UILabel"; text = "Pas de code barre détecté"; ObjectID = "Xgg-eO-56a"; */
+"Xgg-eO-56a.text" = "Pas de code barre détecté";
+
+/* Class = "UILabel"; text = "Ven"; ObjectID = "YYY-JC-JtS"; */
+"YYY-JC-JtS.text" = "Ven";
+
+/* Class = "UILabel"; text = "Promotions"; ObjectID = "Ylk-zL-ilO"; */
+"Ylk-zL-ilO.text" = "Promotions";
+
+/* Class = "UILabel"; text = "Mes listes"; ObjectID = "Yzi-Ia-bbQ"; */
+"Yzi-Ia-bbQ.text" = "Mes listes";
+
+/* Class = "UIButton"; normalTitle = "Annuler"; ObjectID = "ZFx-4t-kg7"; */
+"ZFx-4t-kg7.normalTitle" = "Annuler";
+
+/* Class = "UIButton"; normalTitle = "Je n'ai pas de carte"; ObjectID = "ZIC-Ln-fmm"; */
+"ZIC-Ln-fmm.normalTitle" = "Je n'ai pas de carte";
+
+/* Class = "UILabel"; text = "Ticket"; ObjectID = "ZWc-cL-UCl"; */
+"ZWc-cL-UCl.text" = "Ticket";
+
+/* Class = "UILabel"; text = "Mes informations personnelles"; ObjectID = "a6L-2W-HIu"; */
+"a6L-2W-HIu.text" = "Mes informations personnelles";
+
+/* Class = "UILabel"; text = "Ticket envoyé"; ObjectID = "a9g-6b-8xo"; */
+"a9g-6b-8xo.text" = "Ticket envoyé";
+
+/* Class = "UILabel"; text = "10 €"; ObjectID = "ayO-cv-JF4"; */
+"ayO-cv-JF4.text" = "10 €";
+
+/* Class = "UILabel"; text = "J'accepte les conditions d'utilisations"; ObjectID = "bIi-cX-h4r"; */
+"bIi-cX-h4r.text" = "J'accepte les conditions d'utilisations";
+
+/* Class = "UILabel"; text = "TestMan"; ObjectID = "btR-Yx-c2U"; */
+"btR-Yx-c2U.text" = "TestMan";
+
+/* Class = "UILabel"; text = "Qté :"; ObjectID = "c3f-qh-ZIh"; */
+"c3f-qh-ZIh.text" = "Qté :";
+
+/* Class = "UITextField"; placeholder = "Mot de passe"; ObjectID = "c4r-vw-dQp"; */
+"c4r-vw-dQp.placeholder" = "Mot de passe";
+
+/* Class = "UILabel"; text = "Numéro de téléphone :"; ObjectID = "d4c-Br-EtB"; */
+"d4c-Br-EtB.text" = "Numéro de téléphone :";
+
+/* Class = "UILabel"; text = "Nom :"; ObjectID = "d7T-mk-nva"; */
+"d7T-mk-nva.text" = "Nom :";
+
+/* Class = "UILabel"; text = "Promotions"; ObjectID = "dNu-Mj-nfm"; */
+"dNu-Mj-nfm.text" = "Promotions";
+
+/* Class = "UILabel"; text = "Catalogue"; ObjectID = "dl2-1h-QTP"; */
+"dl2-1h-QTP.text" = "Catalogue";
+
+/* Class = "UILabel"; text = "x 1"; ObjectID = "dqY-yp-OSm"; */
+"dqY-yp-OSm.text" = "x 1";
+
+/* Class = "UILabel"; text = "Connexion par carte ou par adresse mail :"; ObjectID = "e0x-r9-DmY"; */
+"e0x-r9-DmY.text" = "Connexion par carte ou par adresse mail :";
+
+/* Class = "UILabel"; text = "Pas de code barre détecté"; ObjectID = "eCM-7b-RSy"; */
+"eCM-7b-RSy.text" = "Pas de code barre détecté";
+
+/* Class = "UILabel"; text = "Promotions"; ObjectID = "eaW-7a-Pjg"; */
+"eaW-7a-Pjg.text" = "Promotions";
+
+/* Class = "UIViewController"; title = "Ticket"; ObjectID = "egF-FK-rTQ"; */
+"egF-FK-rTQ.title" = "Ticket";
+
+/* Class = "UILabel"; text = "Adresse Mail :"; ObjectID = "egj-LY-Seu"; */
+"egj-LY-Seu.text" = "Adresse Mail :";
+
+/* Class = "UILabel"; text = "Erreur lors de l'envoie du ticket"; ObjectID = "enm-SR-bXS"; */
+"enm-SR-bXS.text" = "Erreur lors de l'envoie du ticket";
+
+/* Class = "UILabel"; text = "Catalogue"; ObjectID = "exC-T9-e7O"; */
+"exC-T9-e7O.text" = "Catalogue";
+
+/* Class = "UIButton"; normalTitle = "ACCEPTER"; ObjectID = "f7p-f7-gdi"; */
+"f7p-f7-gdi.normalTitle" = "ACCEPTER";
+
+/* Class = "UILabel"; text = "Offres personnelles"; ObjectID = "fH6-88-3W3"; */
+"fH6-88-3W3.text" = "Offres personnelles";
+
+/* Class = "UILabel"; text = "00000"; ObjectID = "fKL-QU-fK4"; */
+"fKL-QU-fK4.text" = "00000";
+
+/* Class = "UIViewController"; title = "Promotions"; ObjectID = "fKT-ir-dkH"; */
+"fKT-ir-dkH.title" = "Promotions";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fPD-Nh-RZF"; */
+"fPD-Nh-RZF.text" = "Label";
+
+/* Class = "UILabel"; text = "Mes Articles"; ObjectID = "fY6-1h-DYN"; */
+"fY6-1h-DYN.text" = "Mes Articles";
+
+/* Class = "UITextField"; placeholder = "Pays"; ObjectID = "fYb-si-lDl"; */
+"fYb-si-lDl.placeholder" = "Pays";
+
+/* Class = "UILabel"; text = "Promotions"; ObjectID = "g6H-tx-6au"; */
+"g6H-tx-6au.text" = "Promotions";
+
+/* Class = "UIButton"; normalTitle = "REFUSER"; ObjectID = "gJg-hi-mLD"; */
+"gJg-hi-mLD.normalTitle" = "REFUSER";
+
+/* Class = "UILabel"; text = "Prix"; ObjectID = "gPe-y9-Dv0"; */
+"gPe-y9-Dv0.text" = "Prix";
+
+/* Class = "UILabel"; text = "Ticket"; ObjectID = "gkA-Vz-Uiu"; */
+"gkA-Vz-Uiu.text" = "Ticket";
+
+/* Class = "UILabel"; text = "Votre liste : "; ObjectID = "grg-B0-BoY"; */
+"grg-B0-BoY.text" = "Votre liste : ";
+
+/* Class = "UIButton"; normalTitle = "Valider"; ObjectID = "h1k-1M-8vB"; */
+"h1k-1M-8vB.normalTitle" = "Valider";
+
+/* Class = "UILabel"; text = "Prix"; ObjectID = "hHQ-fS-mIC"; */
+"hHQ-fS-mIC.text" = "Prix";
+
+/* Class = "UILabel"; text = "Scan"; ObjectID = "iCd-ns-bGU"; */
+"iCd-ns-bGU.text" = "Scan";
+
+/* Class = "UILabel"; text = "J'accepte que mes données soient utilisées pour m'offrir des offres personnalisées"; ObjectID = "iJv-vj-Def"; */
+"iJv-vj-Def.text" = "J'accepte que mes données soient utilisées pour m'offrir des offres personnalisées";
+
+/* Class = "UITextField"; placeholder = "Ville"; ObjectID = "iYN-bc-SKX"; */
+"iYN-bc-SKX.placeholder" = "Ville";
+
+/* Class = "UITabBarItem"; title = "Ticket"; ObjectID = "ijU-I3-VXM"; */
+"ijU-I3-VXM.title" = "Ticket";
+
+/* Class = "UILabel"; text = "Ticket"; ObjectID = "iq9-5O-Jkg"; */
+"iq9-5O-Jkg.text" = "Ticket";
+
+/* Class = "UILabel"; text = "CONV. PASSAGE"; ObjectID = "iqI-kL-Il1"; */
+"iqI-kL-Il1.text" = "CONV. PASSAGE";
+
+/* Class = "UILabel"; text = "Prénom :"; ObjectID = "jnz-gV-FXy"; */
+"jnz-gV-FXy.text" = "Prénom :";
+
+/* Class = "UILabel"; text = "Ma liste"; ObjectID = "k5P-wq-atO"; */
+"k5P-wq-atO.text" = "Ma liste";
+
+/* Class = "UILabel"; text = "Bob"; ObjectID = "kSp-m6-Ihy"; */
+"kSp-m6-Ihy.text" = "Bob";
+
+/* Class = "UILabel"; text = "NOM COMPLET"; ObjectID = "kVL-Om-Iqs"; */
+"kVL-Om-Iqs.text" = "NOM COMPLET";
+
+/* Class = "UILabel"; text = "Catalogue"; ObjectID = "kXM-lj-RuL"; */
+"kXM-lj-RuL.text" = "Catalogue";
+
+/* Class = "UILabel"; text = "Mer"; ObjectID = "l16-0j-Cdc"; */
+"l16-0j-Cdc.text" = "Mer";
+
+/* Class = "UITextField"; placeholder = "Nom"; ObjectID = "l5P-AT-vu3"; */
+"l5P-AT-vu3.placeholder" = "Nom";
+
+/* Class = "UILabel"; text = "Catalogue"; ObjectID = "lT4-Pa-kxO"; */
+"lT4-Pa-kxO.text" = "Catalogue";
+
+/* Class = "UILabel"; text = "Client"; ObjectID = "lvN-4Y-chz"; */
+"lvN-4Y-chz.text" = "Client";
+
+/* Class = "UILabel"; text = "Ville :"; ObjectID = "mGL-ng-4gy"; */
+"mGL-ng-4gy.text" = "Ville :";
+
+/* Class = "UITextField"; placeholder = "Mot de passe"; ObjectID = "mUc-Sa-E6Q"; */
+"mUc-Sa-E6Q.placeholder" = "Mot de passe";
+
+/* Class = "UILabel"; text = "Ticket"; ObjectID = "mjZ-J7-54J"; */
+"mjZ-J7-54J.text" = "Ticket";
+
+/* Class = "UILabel"; text = "Cela m'intérresse : "; ObjectID = "mqs-10-nhU"; */
+"mqs-10-nhU.text" = "Cela m'intérresse : ";
+
+/* Class = "UILabel"; text = "Jeu"; ObjectID = "nFw-Nx-cnv"; */
+"nFw-Nx-cnv.text" = "Jeu";
+
+/* Class = "UILabel"; text = "Client"; ObjectID = "ndF-Xm-IQw"; */
+"ndF-Xm-IQw.text" = "Client";
+
+/* Class = "UILabel"; text = "Client"; ObjectID = "nq5-8O-Bdd"; */
+"nq5-8O-Bdd.text" = "Client";
+
+/* Class = "UILabel"; text = "Adresse :"; ObjectID = "oCb-gX-PKW"; */
+"oCb-gX-PKW.text" = "Adresse :";
+
+/* Class = "UILabel"; text = "Pays :"; ObjectID = "oCj-fU-A7a"; */
+"oCj-fU-A7a.text" = "Pays :";
+
+/* Class = "UITextField"; text = "172.20.44.100"; ObjectID = "opg-Wb-cE9"; */
+"opg-Wb-cE9.text" = "172.20.44.100";
+
+/* Class = "UILabel"; text = "Testland"; ObjectID = "pSn-5Q-pOd"; */
+"pSn-5Q-pOd.text" = "Testland";
+
+/* Class = "UILabel"; text = "Description : "; ObjectID = "pYP-L2-YUA"; */
+"pYP-L2-YUA.text" = "Description : ";
+
+/* Class = "UILabel"; text = "Le catalogue"; ObjectID = "pgD-My-qQ5"; */
+"pgD-My-qQ5.text" = "Le catalogue";
+
+/* Class = "UITextField"; placeholder = "Code Postal"; ObjectID = "phD-XL-1Gn"; */
+"phD-XL-1Gn.placeholder" = "Code Postal";
+
+/* Class = "UILabel"; text = "Adresse du serveur :"; ObjectID = "piZ-jf-9Lj"; */
+"piZ-jf-9Lj.text" = "Adresse du serveur :";
+
+/* Class = "UITextField"; placeholder = "Adresse"; ObjectID = "pm4-v6-99f"; */
+"pm4-v6-99f.placeholder" = "Adresse";
+
+/* Class = "UILabel"; text = "Modification des informations"; ObjectID = "qHX-DO-aWO"; */
+"qHX-DO-aWO.text" = "Modification des informations";
+
+/* Class = "UITextField"; placeholder = "Adresse"; ObjectID = "qo2-Yv-Eey"; */
+"qo2-Yv-Eey.placeholder" = "Adresse";
+
+/* Class = "UIButton"; normalTitle = "Je m'identifis"; ObjectID = "qwZ-Ph-LMk"; */
+"qwZ-Ph-LMk.normalTitle" = "Je m'identifis";
+
+/* Class = "UILabel"; text = "Ville :"; ObjectID = "rbc-GQ-WMS"; */
+"rbc-GQ-WMS.text" = "Ville :";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rul-N2-KVi"; */
+"rul-N2-KVi.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Ticket"; ObjectID = "rzW-4b-EQY"; */
+"rzW-4b-EQY.text" = "Ticket";
+
+/* Class = "UILabel"; text = "Ma commande en cours "; ObjectID = "sDH-3H-CgD"; */
+"sDH-3H-CgD.text" = "Ma commande en cours ";
+
+/* Class = "UILabel"; text = "Ticket"; ObjectID = "sun-1q-KJJ"; */
+"sun-1q-KJJ.text" = "Ticket";
+
+/* Class = "UILabel"; text = "Mar"; ObjectID = "tWS-ZF-wwq"; */
+"tWS-ZF-wwq.text" = "Mar";
+
+/* Class = "UILabel"; text = "TOTAL :"; ObjectID = "tm4-eZ-rtj"; */
+"tm4-eZ-rtj.text" = "TOTAL :";
+
+/* Class = "UILabel"; text = "Catalogue"; ObjectID = "tyT-2C-rfl"; */
+"tyT-2C-rfl.text" = "Catalogue";
+
+/* Class = "UILabel"; text = "Ticket"; ObjectID = "u5x-mT-v9c"; */
+"u5x-mT-v9c.text" = "Ticket";
+
+/* Class = "UILabel"; text = "Promotions"; ObjectID = "u7j-ZN-ozD"; */
+"u7j-ZN-ozD.text" = "Promotions";
+
+/* Class = "UILabel"; text = "Promotions"; ObjectID = "uBN-kR-Z6j"; */
+"uBN-kR-Z6j.text" = "Promotions";
+
+/* Class = "UILabel"; text = "Dim"; ObjectID = "uvN-SD-JRp"; */
+"uvN-SD-JRp.text" = "Dim";
+
+/* Class = "UIButton"; normalTitle = "MODIFIER MES INFOS"; ObjectID = "v5Q-V9-oDM"; */
+"v5Q-V9-oDM.normalTitle" = "MODIFIER MES INFOS";
+
+/* Class = "UILabel"; text = "10 €"; ObjectID = "vUy-yh-E5A"; */
+"vUy-yh-E5A.text" = "10 €";
+
+/* Class = "UILabel"; text = "0.00 €"; ObjectID = "vZp-Id-dIh"; */
+"vZp-Id-dIh.text" = "0.00 €";
+
+/* Class = "UILabel"; text = "2018"; ObjectID = "w9d-iJ-ezH"; */
+"w9d-iJ-ezH.text" = "2018";
+
+/* Class = "UILabel"; text = "Lun"; ObjectID = "wCL-h6-PBz"; */
+"wCL-h6-PBz.text" = "Lun";
+
+/* Class = "UILabel"; text = "Client"; ObjectID = "wNJ-lA-UDY"; */
+"wNJ-lA-UDY.text" = "Client";
+
+/* Class = "UITextField"; placeholder = "Mot de passe "; ObjectID = "wnO-0g-0Gx"; */
+"wnO-0g-0Gx.placeholder" = "Mot de passe ";
+
+/* Class = "UILabel"; text = "Ticket"; ObjectID = "wvU-sa-Dr0"; */
+"wvU-sa-Dr0.text" = "Ticket";
+
+/* Class = "UILabel"; text = "Adresse :"; ObjectID = "x4f-qd-nsP"; */
+"x4f-qd-nsP.text" = "Adresse :";
+
+/* Class = "UILabel"; text = "Prix"; ObjectID = "zo4-49-Gwc"; */
+"zo4-49-Gwc.text" = "Prix";
+
+/* Class = "UILabel"; text = "Promotions"; ObjectID = "zo8-Ol-tEw"; */
+"zo8-Ol-tEw.text" = "Promotions";

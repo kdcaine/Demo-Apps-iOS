@@ -1,0 +1,26 @@
+PODS:
+  - InteractiveSideMenu (2.3)
+  - JTAppleCalendar (7.1.6)
+  - SDWebImage (4.4.3):
+    - SDWebImage/Core (= 4.4.3)
+  - SDWebImage/Core (4.4.3)
+
+DEPENDENCIES:
+  - InteractiveSideMenu
+  - JTAppleCalendar
+  - SDWebImage
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - InteractiveSideMenu
+    - JTAppleCalendar
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  InteractiveSideMenu: d503a508c6d62a4d5d4372d9fb9e1795637a8e45
+  JTAppleCalendar: abb30678f42a4ef8a340a932b1dcb8c85a33dac2
+  SDWebImage: c5594f1a19c48d526d321e548902b56b479cd508
+
+PODFILE CHECKSUM: a6015914c50c7c996f2dc6262775069b36e84f91
+
+COCOAPODS: 1.5.3
