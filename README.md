@@ -10,8 +10,8 @@ Intégration des cocoapods :
 
 Pour la démo, juste le cocoapod "InteractiveSideMenu" est utilisé. 
 
-Navigation : 
+# Navigation : 
 
-Vous pouvez naviguer dans l'application en utilisant le menu du cocoapod en haut a gauche sans vous connecter. 
+Vous pourrez naviguer dans l'application en utilisant le menu du cocoapod en haut à gauche sans être connecter. 
 
-Bug : Dès que vous cliquerez sur le bouton " Client " ou " Catalogue " en bas de la page, le bouton de navigation en haut à gauche ne sera plus fonctionnelle. 
+Bug : Dès que vous cliquerez sur le bouton " Client " ou " Catalogue " en bas de la page, le bouton de navigation en haut à gauche ne sera plus fonctionnelle. :'( 
